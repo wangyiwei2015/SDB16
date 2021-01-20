@@ -20,7 +20,7 @@ If you prefer English, please read [README_EN.md](https://github.com/wangyiwei20
 
 **6** 重新连接键盘，即可使用。
 
-  
+<br>
 
 ## 常见问题
 
@@ -39,13 +39,13 @@ If you prefer English, please read [README_EN.md](https://github.com/wangyiwei20
 
 关于USB驱动：ATmega32u4/Arduino Leonardo兼容（Windows中安装Arduino IDE可自动解决驱动问题，因为Arduino Leonardo与本产品使用相同的MCU，含USB功能）。
 
-  
+<br>
 
 ## 提交问题/反馈Bugs
 
 请转到[issues](https://github.com/wangyiwei2015/SDB16/issues)页面提交和讨论您的问题。
 
-  
+<br>
 
 ## 更多帮助
 
