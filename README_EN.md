@@ -2,56 +2,56 @@
 
 Manual, Release, Discussion, and Support zone for the SDB16 keyboard.
 
-
+<br>
 
 ## Manual for firmware flashing
 
 **1** Go to [Releases](https://github.com/wangyiwei2015/SDB16/releases) and download the corresponding firmware (The type is printed on the box);
 
-**2** Download and launch [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest), and ensure that MCU is *ATmega32u4*. Then load the downloaded HEX file.
+**2** Download and launch [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest), and ensure that MCU is *ATmega32u4*. Then load the downloaded HEX file;
 
-**3** 连接SDB16键盘，轻按RST按钮，等待QMK Toolbox识别到DFU模式的设备；
+**3** Connect the SDB16 keyboard, click RST button, and wait for QMK Toolbox to identify a DFU device;
 
-**4** 点击*Clear EEPROM*初始化键盘；
+**4** Click *Clear EEPROM* to initialize the device;
 
-**5** 点击*Flash*完成烧录；
+**5** Click *Flash* to complete flashing;
 
-**6** 重新连接键盘，即可使用。
+**6** Re-connect your device and enjoy.
 
+<br>
 
+## Common Issues
 
-## 常见问题
+If the device does not behave as expected, please check the followings:
 
-如果按键相应不符合预期，请检查以下内容：
+- The layout of the key caps is the same as what's printed on the box
+- The flashed firmware is correct
+- Clear EEPROM before flashing
+- There's no errors when flashing
 
-- 键帽安装位置，应与包装盒上一致
-- 烧录的固件应与包装盒提示的一致
-- 烧录前使用Clear初始化
-- 烧录过程中软件内无报错
+If you have problem connecting the device, please check the followings:
 
-如果无法连接设备，请检查以下内容：
+- The USB driver is installed
+- The USB-C cable is capable of data transfers
+- The cable and connectors are functional
 
-- 安装了USB驱动程序
-- 使用带数据传输功能的USB-C线缆
-- 线缆与接口完好
+About USB the USB drier: ATmega32u4/Arduino Leonardo, or any compatible (on Windows, installing an Arduino IDE can solve most of the driver problems, because Arduino Leonardo has the same MCU as this product does, which contains USB features).
 
-关于USB驱动：ATmega32u4/Arduino Leonardo兼容（Windows中安装Arduino IDE可自动解决驱动问题，因为Arduino Leonardo与本产品使用相同的MCU，含USB功能）。
+<br>
 
+## Submitting Issues/Bug Report
 
+Please go to [issues](https://github.com/wangyiwei2015/SDB16/issues) page to submit and discuss your questions.
 
-## 提交问题/反馈Bugs
+<br>
 
-请转到[issues](https://github.com/wangyiwei2015/SDB16/issues)页面提交和讨论您的问题。
+## More
 
+If you need more technical support or help, feel free to contact us:
 
+CEO and Sales：[NextB](mailto://)
 
-## 更多帮助
+Design and Materials：[casteil](mailto://)
 
-如需技术支持或其他帮助，欢迎发邮件联系我们：
-
-CEO/销售：[NextB](mailto://)
-
-设计/工艺：[casteil](mailto://)
-
-硬件/功能：[wyw](mailto://wangyw.dev@outlook.com)
+Hardware and Functions：[wyw](mailto://wangyw.dev@outlook.com)
 
