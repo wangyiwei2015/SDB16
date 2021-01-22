@@ -4,6 +4,14 @@ Manual, Release, Discussion, and Support zone for the SDB16 keyboard.
 
 <br>
 
+## Latest Version • 2021-01-22
+
+[Updated] Null
+
+[Unchanged] Firmware v0.4
+
+<br>
+
 ## Manual for firmware flashing
 
 **1** Go to [Releases](https://github.com/wangyiwei2015/SDB16/releases) and download the corresponding firmware (The type is printed on the box);
