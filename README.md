@@ -6,6 +6,14 @@ If you prefer English, please read [README_EN.md](https://github.com/wangyiwei20
 
 <br>
 
+## 最新版本 • 2021-01-22
+
+[更新] Null
+
+[无变化] Firmware v0.4
+
+<br>
+
 ## 固件烧录指南
 
 **1** 前往[Releases](https://github.com/wangyiwei2015/SDB16/releases)下载相应的固件（名称见包装盒）；
