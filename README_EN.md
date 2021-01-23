@@ -4,11 +4,11 @@ Manual, Release, Discussion, and Support zone for the SDB16 keyboard.
 
 <br>
 
-## Latest Version • 2021-01-22
+## Latest Version • 2021-01-23
 
-[Updated] Null
+[Updated] Firmware/Windows@0.5.0
 
-[Unchanged] Firmware v0.4
+[Unchanged] Null
 
 <br>
 

@@ -6,11 +6,11 @@ If you prefer English, please read [README_EN.md](https://github.com/wangyiwei20
 
 <br>
 
-## 最新版本 • 2021-01-22
+## 最新版本 • 2021-01-23
 
-[更新] Null
+[更新] Firmware/Windows@0.5.0
 
-[无变化] Firmware v0.4
+[无变化] Null
 
 <br>
 
