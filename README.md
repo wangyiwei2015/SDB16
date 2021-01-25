@@ -6,11 +6,11 @@ If you prefer English, please read [README_EN.md](https://github.com/wangyiwei20
 
 <br>
 
-## 最新版本 • 2021-01-23
+## 最新版本 • 2021-01-25
 
-[更新] Firmware/Windows@0.5.0
+[更新] Null
 
-[无变化] Null
+[无变化] Firmware/Windows@0.5.0
 
 <br>
 
@@ -45,7 +45,12 @@ If you prefer English, please read [README_EN.md](https://github.com/wangyiwei20
 - 使用带数据传输功能的USB-C线缆
 - 线缆与接口完好
 
-关于USB驱动：ATmega32u4/Arduino Leonardo兼容（Windows中安装Arduino IDE可自动解决驱动问题，因为Arduino Leonardo与本产品使用相同的MCU，含USB功能）。
+关于USB驱动：ATmega32u4/Arduino Leonardo兼容
+
+安装方式：
+
+- 安装QMK Toolbox，根据弹出提示，或手动点击安装驱动
+- 安装Arduino IDE，过程中会自动解决驱动问题
 
 <br>
 
@@ -59,9 +64,11 @@ If you prefer English, please read [README_EN.md](https://github.com/wangyiwei20
 
 如需技术支持或其他帮助，欢迎发邮件联系我们：
 
-CEO/销售：[NextB](mailto://)
+(如果不涉及个人信息/隐私，我们还是建议使用 [issues](https://github.com/wangyiwei2015/SDB16/issues))。
 
-设计/工艺：[casteil](mailto://)
+CEO/销售：[NextB](mailto://nextb@163.com)
+
+设计/工艺：[casteil](mailto://1741768232@qq.com)
 
 硬件/功能：[wyw](mailto://wangyw.dev@outlook.com)
 

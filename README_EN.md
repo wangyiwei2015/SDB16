@@ -4,27 +4,27 @@ Manual, Release, Discussion, and Support zone for the SDB16 keyboard.
 
 <br>
 
-## Latest Version • 2021-01-23
+## Latest Version • 2021-01-25
 
-[Updated] Firmware/Windows@0.5.0
+[Updated] Null
 
-[Unchanged] Null
+[Unchanged] Firmware/Windows@0.5.0
 
 <br>
 
 ## Manual for firmware flashing
 
-**1** Go to [Releases](https://github.com/wangyiwei2015/SDB16/releases) and download the corresponding firmware (The type is printed on the box);
+**1**. Go to [Releases](https://github.com/wangyiwei2015/SDB16/releases) and download the corresponding firmware (The type is printed on the box);
 
-**2** Download and launch [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest), and ensure that MCU is *ATmega32u4*. Then load the downloaded HEX file;
+**2**. Download and launch [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest), and ensure that MCU is *ATmega32u4*. Then load the downloaded HEX file;
 
-**3** Connect the SDB16 keyboard, click RST button, and wait for QMK Toolbox to identify a DFU device;
+**3**. Connect the SDB16 keyboard, click RST button, and wait for QMK Toolbox to identify a DFU device;
 
-**4** Click *Clear EEPROM* to initialize the device;
+**4**. Click *Clear EEPROM* to initialize the device;
 
-**5** Click *Flash* to complete flashing;
+**5**. Click *Flash* to complete flashing;
 
-**6** Re-connect your device and enjoy.
+**6**. Re-connect your device and enjoy.
 
 <br>
 
@@ -43,7 +43,12 @@ If you have problem connecting the device, please check the followings:
 - The USB-C cable is capable of data transfers
 - The cable and connectors are functional
 
-About USB the USB drier: ATmega32u4/Arduino Leonardo, or any compatible (on Windows, installing an Arduino IDE can solve most of the driver problems, because Arduino Leonardo has the same MCU as this product does, which contains USB features).
+About USB the USB drier: ATmega32u4/Arduino Leonardo, or any compatible.
+
+Two ways of installing a driver:
+
+- In QMK Toolbox, you can follow the prompt or manually click install driver
+- Installing Arduino IDE will automatically solve driver problems
 
 <br>
 
@@ -57,9 +62,11 @@ Please go to [issues](https://github.com/wangyiwei2015/SDB16/issues) page to sub
 
 If you need more technical support or help, feel free to contact us:
 
-CEO and Sales：[NextB](mailto://)
+(If not personal/private, we would suggest using [issues](https://github.com/wangyiwei2015/SDB16/issues).)
 
-Design and Materials：[casteil](mailto://)
+CEO and Sales：[NextB](mailto://nextb@163.com)
+
+Design and Materials：[casteil](mailto://1741768232@qq.com)
 
 Hardware and Functions：[wyw](mailto://wangyw.dev@outlook.com)
 
