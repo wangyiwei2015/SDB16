@@ -32,7 +32,7 @@ If you prefer English, please read [README_EN.md](https://github.com/wangyiwei20
 
 ## 常见问题
 
-如果按键相应不符合预期，请检查以下内容：
+如果按键响应不符合预期，请检查以下内容：
 
 - 键帽安装位置，应与包装盒上一致
 - 烧录的固件应与包装盒提示的一致
