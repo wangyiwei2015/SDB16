@@ -47,7 +47,7 @@ If you prefer English, please read [README_EN.md](https://github.com/wangyiwei20
 
 关于USB驱动：ATmega32u4/Arduino Leonardo兼容
 
-安装方式：
+两种安装方式任选：
 
 - 安装QMK Toolbox，根据弹出提示，或手动点击安装驱动
 - 安装Arduino IDE，过程中会自动解决驱动问题
