@@ -4,9 +4,9 @@ Manual, Release, Discussion, and Support zone for the SDB16 keyboard.
 
 <br>
 
-## Latest Version • 2021-01-25
+## Latest Version • 2021-01-27
 
-[Updated] Null
+[Updated] Firmware/iPad@0.5.1
 
 [Unchanged] Firmware/Windows@0.5.0
 

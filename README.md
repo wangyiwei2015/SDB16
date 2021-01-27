@@ -6,9 +6,9 @@ If you prefer English, please read [README_EN.md](https://github.com/wangyiwei20
 
 <br>
 
-## 最新版本 • 2021-01-25
+## 最新版本 • 2021-01-27
 
-[更新] Null
+[更新] Firmware/iPad@0.5.1
 
 [无变化] Firmware/Windows@0.5.0
 
