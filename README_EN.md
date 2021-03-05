@@ -64,7 +64,7 @@ If you need more technical support or help, feel free to contact us:
 
 (If not personal/private, we would suggest using [issues](https://github.com/wangyiwei2015/SDB16/issues).)
 
-CEO and Sales：[NextB](mailto://nextb@163.com)
+CEO and Sales：[NextB](mailto://nextbm@163.com)
 
 Design and Materials：[casteil](mailto://1741768232@qq.com)
 

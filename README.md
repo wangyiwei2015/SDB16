@@ -66,7 +66,7 @@ If you prefer English, please read [README_EN.md](https://github.com/wangyiwei20
 
 (如果不涉及个人信息/隐私，我们还是建议使用 [issues](https://github.com/wangyiwei2015/SDB16/issues))。
 
-CEO/销售：[NextB](mailto://nextb@163.com)
+CEO/销售：[NextB](mailto://nextbm@163.com)
 
 设计/工艺：[casteil](mailto://1741768232@qq.com)
 
